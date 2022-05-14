@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">NaviApp</string>
+    <string name="app_name">P2-NaviApp</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
 </resources>
